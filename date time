@@ -1,0 +1,4 @@
+<?php
+$test1='d/m/Y';
+echo date('d/m/Y',($test1));
+?>
