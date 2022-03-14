@@ -1,0 +1,6 @@
+  <?php
+  $txt = 'Hello 10k World';
+    
+   echo str_word_count($txt);
+  
+  ?>
