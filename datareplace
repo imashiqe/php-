@@ -1,0 +1,12 @@
+  <?php
+
+    
+$ytr = ' Hello 50k world';
+
+  echo str_replace('50k' , 5000 , $ytr);
+  
+
+
+
+  
+  ?>
